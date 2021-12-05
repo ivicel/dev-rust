@@ -1,0 +1,9 @@
+[package]
+name = "run-test"
+version = "0.1.0"
+edition = "2021"
+authors = ["ivicel<31336040+ivicel@users.noreply.github.com>"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

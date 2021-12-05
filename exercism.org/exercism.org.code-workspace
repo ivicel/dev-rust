@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "beer-song"
+		},
+		{
+			"path": "gigasecond"
+		},
+		{
+			"path": "reverse-string"
+		},
+		{
+			"path": "role-playing-game"
+		},
+		{
+			"path": "rpn-calculator"
+		},
+		{
+			"path": "nth-prime"
+		}
+	],
+	"settings": {}
+}
